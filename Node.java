@@ -1,4 +1,4 @@
-
+package src.Assignment
 class Node
 {
     Object data;
