@@ -1,3 +1,5 @@
+package src.Assignemnt;
+
 class LinkedList
 {
     Node1 head=null;
